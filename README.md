@@ -1,5 +1,4 @@
 # Requirements
-# Dependencies
 To set up and run this application, you will need the following:
 
 Flutter SDK: Install Flutter SDK to build and run the application. You can download it from here.
